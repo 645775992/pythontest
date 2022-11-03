@@ -1,0 +1,23 @@
+# -----------------------------------------------------------------------
+numpy>=1.18.5
+opencv-python>=4.1.1
+
+twisted=11.1.0
+salt=2018.0
+cfscrape=1.6.6
+salt=2018.0.0
+plone=5.0a1
+tryton=5.0.0
+ansible=2.6.0
+Django=4.0
+Shinken=2.4.3
+accesscontrol=3.0
+freeipa=4.8.0
+freetakserver=0
+freqtrade=0
+graphite-web=0.9.5
+gunicorn=20.0.0
+homeassistant=0.56
+html5lib=1.0b1
+httplib2=0
+hyperkitty=0
