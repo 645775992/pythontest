@@ -3,7 +3,7 @@ numpy>=1.18.5
 opencv-python>=4.1.1
 
 twisted=11.1.0
-salt=2018.0
+salt=3004.2
 cfscrape=1.6.6
 salt=2018.0.0
 salt=2018.0.1
